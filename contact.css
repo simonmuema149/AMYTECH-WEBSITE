@@ -1,0 +1,61 @@
+*CONTACT-CONTENT*/
+body{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    background-size: cover;
+    background:linear-gradient(to right, #00093c, #2d0b00); 
+}
+body{
+    background: linear-gradient(to right, #00093c, #2d0b00);
+}
+h1{
+    margin-top: 100px;
+    text-align: center;
+    color: #edfff1;
+    font-size: 32px;
+    line-height: 10px;
+}
+h2{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 25px;
+}
+.box{
+    color: #00ffff;
+}
+form{
+    text-align: center;
+    margin-top: 50px;
+}
+.form-control{
+    color: #00ffff;
+    font-size: 16px;
+    width: 600px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid gray;
+    outline: none;
+    margin-bottom: 20px;
+}
+
+input{
+    height: 45px;
+}
+
+form .submit{
+    background-color: #ff523b;
+    border-color: transparent;
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin-top: 20px;
+    border-radius: 30px;
+    transition: .4s ease;
+}
+
+form .submit:hover{
+    background-color:#00093c ;
+    cursor: pointer;
+}
+/*--CONTACT--*/
